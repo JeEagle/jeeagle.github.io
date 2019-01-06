@@ -99,10 +99,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·",YWJ
+        title: "WY",
+        href: "http://zhengwuyang.com"
+    },{
+        title: "简书·YWJ",
         href: "https://www.jianshu.com/u/59ed122550e5"
-    },
-    {
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
